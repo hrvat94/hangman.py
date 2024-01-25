@@ -1,3 +1,4 @@
+# Hangman (Galgenmännchen)
 hangman.py
 - Länge des Wortes auswählen und spaß haben. :-)
 
